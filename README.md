@@ -1,2 +1,2 @@
-# sholpanWebProgrammer.github.io
+# Шолпан Баумуратова
 Мои первый опубликованный сайт
